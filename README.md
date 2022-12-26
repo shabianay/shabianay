@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a UI/UX designer, and I'm a beginner web developer in the front end, I'm currently studying in the 5th semester of the informatics management study program, at one of the state universities in Surabaya
+I am a third year Informatics Management student at Surabaya State University who is highly curious, communicative, and also an adaptable person, with great interest in: UI/UX Design, Front End Website Developer, Marketing, Business Development, Campaign Operations , Content Creator, Social Media Management.
 
 
 ## 🌐 Socials:
