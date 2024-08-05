@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third year Informatics Management student at Surabaya State University who is highly curious, communicative, and also an adaptable person, with great interest in: UI/UX Design, Front End Website Developer, Marketing, Business Development, Campaign Operations , Content Creator, Social Media Management.
+I am a graduate of Information Management at Surabaya State University, with high curiosity and good communication skills. I have strong adaptability and great interest in UI/UX Design, Web Developer, Content Creation, Social Media Management, and Video & Photo Editing. With a solid academic background and diverse technical skills, I am ready to contribute to various technology and creative projects.
 
 
 ## 🌐 Socials:
