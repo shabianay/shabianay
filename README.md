@@ -1,19 +1,95 @@
-# 💫 About Me:
-I am a graduate of Information Management at Surabaya State University, with high curiosity and good communication skills. I have strong adaptability and great interest in UI/UX Design, Web Developer, Content Creation, Social Media Management, and Video & Photo Editing. With a solid academic background and diverse technical skills, I am ready to contribute to various technology and creative projects.
+<div align="center">
 
+# 👋 Hi, I'm Shabian Arsyl Yonanta
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shabianarsyl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shabianarsylyonanta) 
+### Web Developer • Backend Developer • UI/UX Enthusiast
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shabianay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shabianay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabianay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=shabianay\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shabianay&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Web Developer from Indonesia 🇮🇩** focused on building reliable, maintainable, and user-oriented web applications.
+
+My primary stack is **PHP, Laravel, MySQL, and REST API**, supported by modern frontend technologies such as **JavaScript, React, and Tailwind CSS**.
+
+I enjoy transforming real-world requirements into functional digital products — from backend systems and REST APIs to responsive web applications.
+
+* 💻 Focused on **Web & Backend Development**
+* ⚙️ Building applications with **Laravel, PHP & MySQL**
+* 🔌 Developing and integrating **REST APIs**
+* 🎨 Interested in **UI/UX & Frontend Development**
+* 🌐 Experienced with **WordPress Development**
+* 🧪 Familiar with **Testing, Debugging & Application Maintenance**
+* ☁️ Bangkit Academy — **Cloud Computing Learning Path**
+* 🚀 Exploring **Backend Architecture, Deployment & DevOps**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Database
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### CMS & Design
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 🚀 What I Build
+
+* 🌐 Full-stack Web Applications
+* ⚙️ Backend Systems
+* 🔌 REST APIs
+* 🗄️ Database-Driven Applications
+* 🛒 Business & Management Systems
+* 🎫 Booking & Ticketing Systems
+* 📊 Admin Dashboards
+* 🎨 Responsive Web Interfaces
+* 📝 WordPress Websites
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities and collaborations in:
+
+**Web Development • Backend Development • Laravel • PHP • REST API • WordPress • UI/UX**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-shabianay-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shabianay)
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
